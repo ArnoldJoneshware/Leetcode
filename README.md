@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3429-special-array-i](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3429-special-array-i) |
 ## String
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+## Binary Search
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
