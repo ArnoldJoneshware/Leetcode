@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3429-special-array-i](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3429-special-array-i) |
 ## String
 |  |
