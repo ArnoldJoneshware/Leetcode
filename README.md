@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
@@ -49,5 +51,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0898-transpose-matrix) |
 | [3447-clear-digits](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
