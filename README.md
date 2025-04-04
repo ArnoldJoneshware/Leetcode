@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0292-nim-game) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Brainteaser
@@ -89,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
