@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0541-reverse-string-ii) |
 | [1894-merge-strings-alternately](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0020-valid-parentheses) |
 | [3447-clear-digits](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
