@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0541-reverse-string-ii) |
 | [1894-merge-strings-alternately](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2886-faulty-keyboard](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2886-faulty-keyboard) |
