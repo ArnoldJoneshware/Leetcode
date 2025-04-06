@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0292-nim-game) |
+| [0368-largest-divisible-subset](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Brainteaser
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0898-transpose-matrix](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0242-valid-anagram) |
+| [0368-largest-divisible-subset](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0368-largest-divisible-subset) |
 ## Linked List
 |  |
 | ------- |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0368-largest-divisible-subset) |
 <!---LeetCode Topics End-->
