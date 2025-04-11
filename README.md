@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2998-count-symmetric-integers](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Brainteaser
 |  |
 | ------- |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0368-largest-divisible-subset) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
