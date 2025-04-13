@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0898-transpose-matrix](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Tree
 |  |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0368-largest-divisible-subset) |
 ## Linked List
 |  |
