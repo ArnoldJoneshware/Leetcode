@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0657-robot-return-to-origin](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1894-merge-strings-alternately](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0898-transpose-matrix](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2886-faulty-keyboard](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2886-faulty-keyboard) |
