@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0575-distribute-candies](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0575-distribute-candies) |
 | [0898-transpose-matrix](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0575-distribute-candies](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0575-distribute-candies) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Tree
 |  |
