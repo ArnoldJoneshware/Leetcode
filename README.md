@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3429-special-array-i](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3429-special-array-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## String
 |  |
 | ------- |
