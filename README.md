@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2998-count-symmetric-integers](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Brainteaser
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2886-faulty-keyboard](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3447-clear-digits) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Binary Search
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0575-distribute-candies) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Tree
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
@@ -134,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3637-count-number-of-balanced-permutations](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+## Counting
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
