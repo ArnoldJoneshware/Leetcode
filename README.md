@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3429-special-array-i](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3429-special-array-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## String
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2886-faulty-keyboard](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2886-faulty-keyboard) |
+| [3194-find-words-containing-character](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3447-clear-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
