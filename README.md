@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2886-faulty-keyboard](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3447-clear-digits) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0020-valid-parentheses) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3447-clear-digits](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/ArnoldJoneshware/Leetcode/tree/master/0575-distribute-candies) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ArnoldJoneshware/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Tree
 |  |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ArnoldJoneshware/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Greedy
+|  |
+| ------- |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ArnoldJoneshware/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 <!---LeetCode Topics End-->
